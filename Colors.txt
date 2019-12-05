@@ -3,3 +3,7 @@ red
 black
 green
 yellow
+purple
+pink
+navy blue
+white
