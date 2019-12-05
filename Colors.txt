@@ -7,3 +7,8 @@ purple
 pink
 navy blue
 white
+orange
+Azure
+cyber yellow
+gold
+
