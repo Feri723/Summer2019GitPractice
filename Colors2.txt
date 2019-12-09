@@ -1,6 +1,2 @@
 blue
-red
-orange
-green
-black
 
